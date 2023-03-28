@@ -70,8 +70,6 @@ button {
 main {
     outline: none;
     border: 0;
-    background-color: #ebd5ff8f;
-    box-shadow: 8px 8px 10px #69339ca4;
     margin-left: 510px;
     margin-right: 545px;
     margin-top: -1%;
@@ -99,8 +97,6 @@ main {
     main {
         outline: none;
         border: 0;
-        background-color: #ebd5ff8f;
-        box-shadow: 8px 8px 10px #69339ca4;
         margin-left: 250px;
         margin-right: 257px;
         margin-top: -1%;
@@ -132,8 +128,6 @@ main {
     main {
         outline: none;
         border: 0;
-        background-color: #ebd5ff8f;
-        box-shadow: 8px 8px 10px #69339ca4;
         margin-left: 100px;
         margin-right: 90px;
         margin-top: -1%;
