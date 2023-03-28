@@ -10,6 +10,7 @@
 body {
     background-image: url('imagens/vaporwave.gif');
     background-size: 86em;
+    margin: auto;
 }
 
 h1 {
@@ -72,8 +73,71 @@ main {
     background-color: #ebd5ff8f;
     box-shadow: 8px 8px 10px #69339ca4;
     margin-left: 510px;
-    margin-right: 530px;
+    margin-right: 545px;
     margin-top: -1%;
     border-radius: 10px;
     padding: 5px;
+}
+
+@media screen and (max-width: 819px) {
+    .container {
+        box-shadow: 8px 8px 10px #69339ca4; 
+        border-radius: 10px;
+        background-color: #ebd5ff8f;
+        padding: 5px;
+        height: 20em;
+        text-align: center;
+        width: 300px;
+        margin-left: 250px;
+        margin-top: 10%;
+    }
+    body {
+        background-image: url('imagens/tumblrvaporgram.webp');
+        background-size: 80em;
+        margin: auto;
+    }
+    main {
+        outline: none;
+        border: 0;
+        background-color: #ebd5ff8f;
+        box-shadow: 8px 8px 10px #69339ca4;
+        margin-left: 250px;
+        margin-right: 257px;
+        margin-top: -1%;
+        border-radius: 10px;
+        padding: 5px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 500px) {
+    .container {
+        box-shadow: 8px 8px 10px #69339ca4; 
+        border-radius: 10px;
+        background-color: #ebd5ff8f;
+        padding: 5px;
+        height: 20em;
+        text-align: center;
+        width: 300px;
+        margin-left: 100px;
+        margin-top: 10%;
+    }
+    body {
+        background-image: url('imagens/tumblrvaporgram.webp');
+        background-size: 80em;
+        margin: auto;
+    }
+    main {
+        outline: none;
+        border: 0;
+        background-color: #ebd5ff8f;
+        box-shadow: 8px 8px 10px #69339ca4;
+        margin-left: 100px;
+        margin-right: 90px;
+        margin-top: -1%;
+        border-radius: 10px;
+        padding: 5px;
+    }
 }
